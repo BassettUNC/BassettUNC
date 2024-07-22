@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Elijah.
-- 👀 I’m interested in the impact computing will continue to have on our future.
-- 🌱 I’m currently majoring in computer science at the University of North Carolina.
-- 📫 How to reach me: Bassett@unc.edu
+- 👋 Hi, I’m Elijah
+- 📚 I’m a UNC Computer Science grad
+- 💊 I’m currently working as a Product Analyst at TruLab
+- 📫 How to reach me: Elijah1539@gmail.com
 
 <!---
 BassettUNC/BassettUNC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
